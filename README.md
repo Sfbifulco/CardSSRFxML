@@ -1,4 +1,4 @@
 # CardSSRFxML
-Implementation of Random Forest Explainable Machine Learning via SHAP
+Implementation of Random Forest Explainable Machine Learning via SHAP 
 Requires own dataset formatted in .xls format
-Run cell-by-cell
+Load in JupyterNotebook and run cell-by-cell
